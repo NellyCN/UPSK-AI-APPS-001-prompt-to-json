@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const axios = require("axios");
 const chatFlow = require("../test/flow.json");
 
